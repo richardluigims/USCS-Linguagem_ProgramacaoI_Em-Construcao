@@ -7,5 +7,6 @@
   echo $media;
   echo "<br>";
   echo "A média do estudante é ". number_format($media, 5);
+  // 5 = quantidade de casas decimais
 
  ?>
