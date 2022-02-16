@@ -1,14 +1,14 @@
 <?php
 
-  $numero1 = 26.45;
-  $numero2 = 54.6666;
+  $x1 = 26.45;
+  $x2 = 54.6666;
 
-  $soma = $numero1 + $numero2;
+  $soma = $x1 + $x2;
 
-  $nome = "Renato";
+  $nome = "Richard";
 
-  echo "o numero $soma é a soma final";
+  echo "O número $soma é a soma final";
   echo "<br>";
-  printf ("O numero %.2f é a soma final", $soma)
+  printf ("O número %.2f é a soma final", $soma)
 
 ?>
