@@ -1,5 +1,7 @@
 <?php
 
+//Objetivo: exemplificar uso dos comandos sqrt e pow
+
   $x = 25;
   $y = 4;
 
