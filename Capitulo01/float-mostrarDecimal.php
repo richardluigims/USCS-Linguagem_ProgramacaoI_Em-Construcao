@@ -1,5 +1,7 @@
 <?php
 
+//Objetivo: exemplificar uso de variável float
+
   $x1 = 26.45;
   $x2 = 54.6666;
 
