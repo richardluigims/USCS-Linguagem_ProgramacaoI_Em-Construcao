@@ -1,5 +1,7 @@
 <?php
 
+//Objetivo: praticar o uso das funções sqrt e pow
+
   $x1 = 2.0;
   $y1 = 2.0;
   $x2 = 5.0;
