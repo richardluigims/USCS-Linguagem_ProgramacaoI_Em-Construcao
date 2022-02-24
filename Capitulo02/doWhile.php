@@ -1,5 +1,7 @@
 <?php
 
+// Objetivo: exemplo de Do While
+
   $i = 0;
   do
   {
