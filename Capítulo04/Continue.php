@@ -4,7 +4,7 @@
   {
     if (($i % 2) == 1)
     {
-      continue; // interrompe o valor que cumpre as condições estabelecidas
+      continue; // interrompe apenas o valor que cumpre as condições estabelecidas e continua com o for
     }
     echo "i = " . $i; // imprime os valores pares
     echo "<br>";
